@@ -34,7 +34,7 @@
 <div align="center">
 <h3> Connect with me </h3> 
 <p align="center">
-    <a href="https://www.linkedin.com/in/mariam-nozadze-38b895203/" target="_blank"><img alt="LinkedIn" width="25px" 
+    <a href="https://www.linkedin.com/in/mariam-nozadze-38b895203/" target="_blank"><img alt="LinkedIn" width="25px" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
     </a>
     
