@@ -1,5 +1,4 @@
 ### <h1 align="center">Hi 👋, I'm Mariam </h1>
-### <h1 align="center">Happy new year all! ♥ </h1>
 
 <br />
 
