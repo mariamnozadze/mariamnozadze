@@ -15,10 +15,10 @@
 <h1 align="center">Hey, there 👋 I'm Mariam</h1>
 
 ###
-<br>
-<p align="left">- 🔭Currently I’m working as a Software Engineer in Nuclear Engineering Center</p>
-<br>
 
+<p align="left">- 🔭Currently I’m working as a Software Engineer in Nuclear Engineering Center</p>
+
+###
 
 <h3 align="left">🛠 Languages and tools</h3>
 
@@ -69,5 +69,7 @@
 <br>
 
 <h3 align="left">🔥   My Stats :</h3>
+###
+![mariamnozadze's Stats](https://github-readme-stats.vercel.app/api?username=mariamnozadze&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ###
