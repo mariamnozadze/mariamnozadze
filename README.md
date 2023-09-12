@@ -69,7 +69,9 @@
 <br>
 
 <h3 align="left">🔥   My Stats :</h3>
-###
-![mariamnozadze's Stats](https://github-readme-stats.vercel.app/api?username=mariamnozadze&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mariamnozadze&show_icons=true&theme=dark&locale=en" alt="mariamnozadze" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariamnozadze&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="mariamnozadze" /></p>
 
 ###
