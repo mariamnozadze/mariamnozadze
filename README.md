@@ -70,8 +70,9 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mariamnozadze&show_icons=true&theme=dark&locale=en" alt="mariamnozadze" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariamnozadze&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="mariamnozadze" /></p>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mariamnozadze&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+
+
 
 ###
