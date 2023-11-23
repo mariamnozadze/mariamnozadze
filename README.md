@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- 🔭Currently I’m working as a Software Engineer in Nuclear Engineering Center</p>
+<p align="center">- 🔭Currently I’m working as a Software Engineer in Nuclear Engineering Center</p>
 
 ###
 
