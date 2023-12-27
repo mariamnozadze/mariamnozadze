@@ -61,11 +61,5 @@
 
 <br>
 
-<h3 align="left">🔥   My Stats :</h3>
-
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mariamnozadze&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-
-
 
 ###
